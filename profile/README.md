@@ -75,3 +75,9 @@ Companion video: [Design a Digital Wallet: The $100 Transfer That Disappears](ht
   rot while a later one is being written
 - **Code is MIT.** Clone it, fork it, use it at work. Article text and the brand
   are not covered by that
+
+## ☕ Support Code with Sam
+
+If these repositories or the videos have helped you, you can support the
+channel here, with a coffee or a plate of sadza:
+[buymeacoffee.com/codewithsam](https://buymeacoffee.com/codewithsam)
