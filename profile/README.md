@@ -79,5 +79,7 @@ Companion video: [Design a Digital Wallet: The $100 Transfer That Disappears](ht
 ## ☕ Support Code with Sam
 
 If these repositories or the videos have helped you, you can support the
-channel here, with a coffee or a plate of sadza:
-[buymeacoffee.com/codewithsam](https://buymeacoffee.com/codewithsam)
+channel here:
+
+- ☕ Buy me a coffee: [buymeacoffee.com/codewithsam](https://buymeacoffee.com/codewithsam)
+- 🍲 Buy me sadza: [buymesadza.com/codewithsam](https://buymesadza.com/codewithsam)
